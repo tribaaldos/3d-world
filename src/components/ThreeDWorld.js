@@ -49,7 +49,7 @@ const ThreeDWorld = () => {
     };
   }, []);
 
-  return null; // No need to render any JSX, everything is done in the useEffect
+  return null; // No need to w render any JSX, everything is done in the useEffect
 };
 
 export default ThreeDWorld;
