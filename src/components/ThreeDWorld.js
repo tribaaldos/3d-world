@@ -5,5 +5,5 @@ export default function ThreeDWorld() {
   const loader = new GLTFLoader();
   return (
     loader.load( '../models/gltf/wolf.gltf')
-  )//
+  )
 }
